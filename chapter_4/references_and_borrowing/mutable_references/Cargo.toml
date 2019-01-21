@@ -1,0 +1,7 @@
+[package]
+name = "mutable_references"
+version = "0.1.0"
+authors = ["Oguz Bektas <o.bektas@proxmox.com>"]
+edition = "2018"
+
+[dependencies]
